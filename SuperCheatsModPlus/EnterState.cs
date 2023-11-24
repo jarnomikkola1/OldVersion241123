@@ -1,4 +1,4 @@
-﻿using Base.UI.VideoPlayback;
+using Base.UI.VideoPlayback;
 using PhoenixPoint.Home.View.ViewStates;
 using System;
 using System.Reflection;
@@ -24,6 +24,7 @@ namespace SuperCheatsModPlus
             }
             catch (Exception e)
             {
+                SuperCheatsModPlusLogger.Error(e);
             }
         }
     }
