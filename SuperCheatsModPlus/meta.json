@@ -1,13 +1,13 @@
 {
-  "ID": "com.example.SuperCheatsModPlus",
+  "ID": "SuperCheatsModPlus",
   "AssemblyName": "SuperCheatsModPlus.dll",
   "Author": [
     {
       "Key": "English",
-      "Value": "Dtony"
+      "Value": "Jarno Mikkola"
     }
   ],
-  "Version": "1.0",
+  "Version": "2.0",
   "Name": [
     {
       "Key": "English",
@@ -17,7 +17,7 @@
   "Description": [
     {
       "Key": "English",
-      "Value": "New Mod description"      
+      "Value": "This mod allows you to modify multiple ingame settings, it is called cheating by some, others just view it as the single player games most fun part." 
     }
   ],
   "Dependencies": []
